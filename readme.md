@@ -13,6 +13,6 @@ kolko kamenov mnisi prekladaju...
 Nas tim tvoria clenovia:
 
 1. Heorhii Rudyi
-2. 
+2. Richard Macko
 3. 
 4. 
