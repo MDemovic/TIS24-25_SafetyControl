@@ -14,5 +14,5 @@ Nas tim tvoria clenovia:
 
 1. Heorhii Rudyi
 2. Richard Macko
-3. 
+3. Martin Demovič
 4. 
