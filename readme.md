@@ -15,4 +15,4 @@ Nas tim tvoria clenovia:
 1. Heorhii Rudyi
 2. Richard Macko
 3. Martin Demovič
-4. Liliia Orlova
+4. Liliia Orlova :)
