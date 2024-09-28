@@ -7,7 +7,7 @@ void hanoi(int n, int a, int b)
   else
   {
     hanoi(n - 1, a, 6 - a - b); // Added -b
-    printf("presun kamen %d na %d z %d\n", n, a, b); // Wrong Order
+    printf("presun kamen %d z %d na %d\n", n, a, b); // Fixed Order
     hanoi(n - 1, 6 - a - b, b); // Added -1
   }
 }
